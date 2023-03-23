@@ -1,0 +1,27 @@
+{
+  "name": "tdd-dayone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node listen.js",
+    "test": "jest",
+    "dev": "nodemon listen.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MightiestAlex/tdd-dayOne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MightiestAlex/tdd-dayOne/issues"
+  },
+  "homepage": "https://github.com/MightiestAlex/tdd-dayOne#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
